@@ -1,2 +1,2 @@
 # Portafolio
-Proyectos de autimatización y visualización e interpretación de datos 
+Proyectos de automatización y visualización e interpretación de datos 
