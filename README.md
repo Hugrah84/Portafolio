@@ -8,7 +8,7 @@ Portafolio de Ciencia de Datos y Business Intelligence. Aquí encontrarás proye
 Se observa una tendencia de mejora consistente: el promedio de aciertos incrementó del 75% (Día 2) al 77% (Día 4). 
 La variabilidad representada por el error estándar (barras rojas) se mantiene estable, lo que sugiere que la mejora fue homogénea en todos los sujetos evaluados.
 
-**Nota técnica:** Estos datos son resultado de una investigación original realizada durante mi maestría en el Instituto de Neurobiología de la UNAM. Originalmente estaban en formato `.mat`, pero los transformé a `.csv` utilizando Octave para poder procesarlos en Excel y visualizarlos en Power BI.
+> **Nota técnica:** Estos datos son resultado de una investigación original realizada durante mi maestría en el Instituto de Neurobiología de la UNAM. Originalmente estaban en formato `.mat`, pero los transformé a `.csv` utilizando Octave para poder procesarlos en Excel y visualizarlos en Power BI.
 
 ### ¿Cómo visualizar el proyecto completo?
 
